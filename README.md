@@ -1,2 +1,2 @@
 # ProChesArmyBuilder
-Board game that fusion chess simplicity with a little part of warhammer 4000 mechanicus.
+Board game that fuses the simplicity of chess with a bit of Warhammer 4000 mechanics.
